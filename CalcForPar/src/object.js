@@ -1,33 +1,33 @@
-const allcalc = document.getElementById("allcalc");
+export const allcalc = document.getElementById("allcalc");
 
-const firstSection = allcalc.querySelector("#firstp");
+export const firstSection = allcalc.querySelector("#firstp");
 
-const lvlInput = allcalc.querySelector("#lvl");
-const pointsInput = allcalc.querySelector("#points");
-const firstButton = allcalc.querySelector("#firstpb");
+export const lvlInput = allcalc.querySelector("#lvl");
+export const pointsInput = allcalc.querySelector("#points");
+export const firstButton = allcalc.querySelector("#firstpb");
 
-const secondSection = allcalc.querySelector("#secp");
+export const secondSection = allcalc.querySelector("#secp");
 
-const youHavePoints = allcalc.querySelector("#yhave");
+export const youHavePoints = allcalc.querySelector("#yhave");
 
-const inputChakra = allcalc.querySelector("#chakra");
-const inputStrength = allcalc.querySelector("#strength");
-const inputSpeed = allcalc.querySelector("#speed");
-const inputTactics = allcalc.querySelector("#tactics");
-const inputNin = allcalc.querySelector("#nin");
-const inputTai = allcalc.querySelector("#tai");
-const inputGen = allcalc.querySelector("#gen");
-const inputFuin = allcalc.querySelector("#fuin");
-const inputHealth = allcalc.querySelector("#health");
-const inputKnowledge = allcalc.querySelector("#knowledge");
-const inputArmDef = allcalc.querySelector("#armDef");
-const inputWeapDam = allcalc.querySelector("#weapDam");
+export const inputChakra = allcalc.querySelector("#chakra");
+export const inputStrength = allcalc.querySelector("#strength");
+export const inputSpeed = allcalc.querySelector("#speed");
+export const inputTactics = allcalc.querySelector("#tactics");
+export const inputNin = allcalc.querySelector("#nin");
+export const inputTai = allcalc.querySelector("#tai");
+export const inputGen = allcalc.querySelector("#gen");
+export const inputFuin = allcalc.querySelector("#fuin");
+export const inputHealth = allcalc.querySelector("#health");
+export const inputKnowledge = allcalc.querySelector("#knowledge");
+export const inputArmDef = allcalc.querySelector("#armDef");
+export const inputWeapDam = allcalc.querySelector("#weapDam");
 
-const youHavePointsLeft = allcalc.querySelector("#rest");
+export const youHavePointsLeft = allcalc.querySelector("#rest");
 
-const techniquesE = allcalc.querySelector("#rE");
-const techniquesD = allcalc.querySelector("#rD");
-const techniquesC = allcalc.querySelector("#rC");
-const techniquesB = allcalc.querySelector("#rB");
-const techniquesA = allcalc.querySelector("#rA");
-const techniquesS = allcalc.querySelector("#rS");
+export const techniquesE = allcalc.querySelector("#rE");
+export const techniquesD = allcalc.querySelector("#rD");
+export const techniquesC = allcalc.querySelector("#rC");
+export const techniquesB = allcalc.querySelector("#rB");
+export const techniquesA = allcalc.querySelector("#rA");
+export const techniquesS = allcalc.querySelector("#rS");
