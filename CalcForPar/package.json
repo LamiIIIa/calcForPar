@@ -1,0 +1,22 @@
+{
+  "name": "calc-for-par",
+  "version": "0.1.0",
+  "description": "Calculator for character parameters.",
+  "private": true,
+  "type": "module",
+  "main": "src/formulas.js",
+  "scripts": {
+    "check": "node --check src/object.js && node --check src/lvl.js && node --check src/formulas.js",
+    "start": "node src/formulas.js"
+  },
+  "keywords": [
+    "calculator",
+    "character",
+    "parameters"
+  ],
+  "author": "LamiIIIa",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  }
+}
